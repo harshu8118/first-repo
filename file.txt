@@ -1,5 +1,5 @@
 i am in the first line
 second line
-this is an alternative
+this is an alternative branch file
 fourth line
 fifth line committ
