@@ -1,5 +1,8 @@
-first line
+i am in the first line
 second line
 third line this is the main branch
 fourth line
 main branch fifth line 
+this is an alternative branch file
+fourth line
+fifth line committ
